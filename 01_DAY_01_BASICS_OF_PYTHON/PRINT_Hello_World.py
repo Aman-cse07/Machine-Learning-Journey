@@ -1,1 +1,6 @@
-
+print("hello World")
+print("Hello Aman","How are you?")
+print(23707)
+print(7+70)
+# print(077)
+print()
