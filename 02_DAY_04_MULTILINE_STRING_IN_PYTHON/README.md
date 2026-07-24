@@ -1,8 +1,8 @@
-# 🐍 Python Learning Journey - Day 04
+# 🐍 Python Learning Journey - Day 02
 
 # 📝 Multiline Strings in Python
 
-Welcome to **Day 04** of my Python Learning Journey! 🚀
+Welcome to **Day 02** of my Python Learning Journey! 🚀
 
 In this lesson, we will learn about **Multiline Strings** in Python. Multiline strings allow us to write text that spans multiple lines without using `\n` repeatedly. They are commonly used for storing paragraphs, poems, documentation, SQL queries, HTML code, and more.
 
@@ -213,7 +213,7 @@ Multiline strings are easier to read and write when dealing with long text.
 ```text
 Python-Learning-Journey/
 │
-├── Day-04/
+├── Day-02/
 │   ├── multiline_string.py
 │   └── README.md
 │
