@@ -1,8 +1,8 @@
-# 🐍 Python Learning Journey - Day 03
+# 🐍 Python Learning Journey - Day 01
 
 # ➕ Arithmetic Operators in Python
 
-Welcome to **Day 03** of my Python Learning Journey! 🚀
+Welcome to **Day 01** of my Python Learning Journey! 🚀
 
 In this lesson, we explore **Arithmetic Operators** in Python. These operators are used to perform mathematical calculations such as addition, subtraction, multiplication, division, modulus, exponentiation, and floor division.
 
@@ -259,7 +259,7 @@ Output:
 ```text
 Python-Learning-Journey/
 │
-├── Day-03/
+├── Day-01/
 │   ├── arithmetic_operators.py
 │   └── README.md
 │
