@@ -1,8 +1,8 @@
-# 🐍 Python Learning Journey - Day 05
+# 🐍 Python Learning Journey - Day 02
 
 # ⚡ Assignment, Comparison & Logical Operators in Python
 
-Welcome to **Day 05** of my Python Learning Journey! 🚀
+Welcome to **Day 02** of my Python Learning Journey! 🚀
 
 In this lesson, we will learn about three important categories of operators in Python:
 
@@ -328,7 +328,7 @@ These operators are used in:
 ```text
 Python-Learning-Journey/
 │
-├── Day-05/
+├── Day-02/
 │   ├── operators.py
 │   └── README.md
 │
