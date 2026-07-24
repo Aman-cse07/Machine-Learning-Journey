@@ -2,7 +2,7 @@
 
 # 🎓 Grade Calculator Using `if-elif-else` in Python
 
-Welcome to **Day 06** of my Python Learning Journey! 🚀
+Welcome to **Day 03** of my Python Learning Journey! 🚀
 
 In this lesson, we will learn about **Conditional Statements** in Python using the **`if`**, **`elif`**, and **`else`** keywords. Conditional statements help a program make decisions based on user input or specific conditions.
 
