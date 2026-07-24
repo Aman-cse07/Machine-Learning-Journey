@@ -1,6 +1,6 @@
-# 🐍 Python Learning Journey - Day 02
+# 🐍 Python Learning Journey - Day 01
 
-Welcome to **Day 02** of my Python Learning Journey! 🚀
+Welcome to **Day 01** of my Python Learning Journey! 🚀
 
 In this lesson, we will learn about **Variables** in Python. Variables are one of the most fundamental concepts in programming because they allow us to store and manipulate data.
 
@@ -289,7 +289,7 @@ Output:
 ```
 Python-Learning-Journey/
 │
-├── Day-02/
+├── Day-01/
 │   ├── variables.py
 │   └── README.md
 │
