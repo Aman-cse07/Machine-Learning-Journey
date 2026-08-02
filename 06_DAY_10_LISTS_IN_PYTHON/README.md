@@ -1,4 +1,4 @@
-# 🐍 Python Learning Journey - Day 6
+# 🐍 Python Learning Journey - Day 06
 
 # 📋 Lists in Python
 
