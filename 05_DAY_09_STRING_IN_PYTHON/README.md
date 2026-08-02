@@ -1,4 +1,4 @@
-# 🐍 Python Learning Journey - Day 09
+# 🐍 Python Learning Journey - Day 05
 
 # 🔤 Strings in Python
 
