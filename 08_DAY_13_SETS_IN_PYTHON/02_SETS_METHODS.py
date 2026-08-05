@@ -1,1 +1,12 @@
-
+a = set()
+a.add("Aman")
+a.add(43.7)
+a.add(1)
+a.add(1)
+a.add("Kumar")
+a.add("Hello")
+print(a)
+print(len(a))
+a.remove(1)
+print(a)
+print(len(a))
